@@ -232,6 +232,36 @@ header {
 
 /* end trainers style */
 
+/* contact us styling */
+
+.contact {
+  background-color: #024e76;
+  text-align: center;
+}
+
+.contact h2 {
+  color: #fce138;
+  }
+
+.contact-info iframe {
+  width: 400px;
+  height: 400px;
+ }
+
+contact-info div {
+  display: inline-block;
+  width: 410px;
+  vertical-align: top;
+  text-align: left;
+  margin: 30px 0 0 60px;
+  color: white
+}
+
+/* end contact us styling */
+
+
+/* helper styling */
+
 .text-left {
   text-align: left;
 }
@@ -239,3 +269,4 @@ header {
 .text-right {
   text-align: right;
 }
+/* end helper styling */
