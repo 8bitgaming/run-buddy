@@ -84,6 +84,25 @@ header {
   position: relative;
 }
 
+.hero-cta {
+  width: 600px;
+  text-align: right;
+  margin: 10px;
+  position: absolute;
+  left: 400px;
+
+}
+
+.hero-cta h2{
+  color: #fce138;
+  font-style: italic;
+  font-size: 60px;
+}
+
+.hero-cta p{
+  color: white;
+}
+
 .hero-form {
   color: #024e76;
   background-color: #fce138;
